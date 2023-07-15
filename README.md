@@ -36,7 +36,7 @@ To run this project, you need the following:
 
 This section provides a visual representation of the project, showcasing its features, user interface, and design.
 
-![Alt text](1.png)
+![Alt text](https://github.com/Aminah09/temp/blob/master/1.png)
 
 
 
