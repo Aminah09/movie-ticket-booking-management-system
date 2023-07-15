@@ -32,6 +32,14 @@ To run this project, you need the following:
 
 6. Follow the on-screen instructions to browse movies, select showtimes, choose seats, make payments, and generate receipts.
 
+## Project Highlights
+
+This section provides a visual representation of the project, showcasing its features, user interface, and design.
+
+![Alt text](image_url)
+
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
