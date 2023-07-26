@@ -35,39 +35,39 @@ To run this project, you need the following:
 ## Project Highlights
 
 This section provides a visual representation of the project, showcasing its features, user interface, and design. <br>
-1. Registration GUI <br><br>
+### 1. Registration GUI <br><br>
 
 ![Alt text](https://github.com/Aminah09/temp/blob/master/2.png)
 ![Alt text](https://github.com/Aminah09/temp/blob/master/2.2.png)
 <br><br>
-2. Login GUI <br><br>
+### 2. Login GUI <br><br>
 
 ![Alt text](https://github.com/Aminah09/temp/blob/master/1.png)
 ![Alt text](https://github.com/Aminah09/temp/blob/master/1.1.png)
 <br><br>
-3. Movie Details GUI <br><br>
+### 3. Movie Details GUI <br><br>
 
 ![Alt text](https://github.com/Aminah09/temp/blob/master/3.png)
 ![Alt text](https://github.com/Aminah09/temp/blob/master/3.1.png)
 <br><br>
-4. Book Movie GUI <br><br>
+### 4. Book Movie GUI <br><br>
 
 ![Alt text](https://github.com/Aminah09/temp/blob/master/4.png)
 <br><br>
-5. Confirmation GUI <br><br>
+### 5. Confirmation GUI <br><br>
 
 ![Alt text](https://github.com/Aminah09/temp/blob/master/5.png)
 <br><br>
-6. Cancellation GUI <br><br>
+### 6. Cancellation GUI <br><br>
 
 ![Alt text](https://github.com/Aminah09/temp/blob/master/6.png)
 <br><br>
-7. Payment Type GUI <br><br>
+### 7. Payment Type GUI <br><br>
 
 ![Alt text](https://github.com/Aminah09/temp/blob/master/7.png)
 ![Alt text](https://github.com/Aminah09/temp/blob/master/8.png)
 <br><br>
-8. Payment Successful GUI <br><br>
+### 8. Payment Successful GUI <br><br>
 
 ![Alt text](https://github.com/Aminah09/temp/blob/master/8.1.png)
 
