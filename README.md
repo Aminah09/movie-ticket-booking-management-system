@@ -39,34 +39,34 @@ This section provides a visual representation of the project, showcasing its fea
 
 ![Alt text](https://github.com/Aminah09/temp/blob/master/2.png)
 ![Alt text](https://github.com/Aminah09/temp/blob/master/2.2.png)
-
+<br><br>
 2. Login GUI <br>
 
 ![Alt text](https://github.com/Aminah09/temp/blob/master/1.png)
 ![Alt text](https://github.com/Aminah09/temp/blob/master/1.1.png)
-
+<br><br>
 3. Movie Details GUI <br>
 
 ![Alt text](https://github.com/Aminah09/temp/blob/master/3.png)
 ![Alt text](https://github.com/Aminah09/temp/blob/master/3.1.png)
-
+<br><br>
 4. Book Movie GUI <br>
 
 ![Alt text](https://github.com/Aminah09/temp/blob/master/4.png)
-
+<br><br>
 5. Confirmation GUI <br>
 
 ![Alt text](https://github.com/Aminah09/temp/blob/master/5.png)
-
+<br><br>
 6. Cancellation GUI <br>
 
 ![Alt text](https://github.com/Aminah09/temp/blob/master/6.png)
-
+<br><br>
 7. Payment Type GUI <br>
 
 ![Alt text](https://github.com/Aminah09/temp/blob/master/7.png)
 ![Alt text](https://github.com/Aminah09/temp/blob/master/8.png)
-
+<br><br>
 8. Payment Successful GUI <br>
 
 ![Alt text](https://github.com/Aminah09/temp/blob/master/8.1.png)
