@@ -37,39 +37,42 @@ To run this project, you need the following:
 This section provides a visual representation of the project, showcasing its features, user interface, and design. <br>
 ### 1. Registration GUI <br><br>
 
-![Alt text](https://github.com/Aminah09/temp/blob/master/2.png)
-![Alt text](https://github.com/Aminah09/temp/blob/master/2.2.png)
+![image](https://github.com/Aminah09/movie-ticket-booking-management-system/assets/78598270/4f136307-812d-40c8-9979-bc98edd18c9e)
+![image](https://github.com/Aminah09/movie-ticket-booking-management-system/assets/78598270/f2b4b8eb-0a70-4e9a-931c-1ecea677b261)
+
 <br><br>
 ### 2. Login GUI <br><br>
 
-![Alt text](https://github.com/Aminah09/temp/blob/master/1.png)
-![Alt text](https://github.com/Aminah09/temp/blob/master/1.1.png)
+![image](https://github.com/Aminah09/movie-ticket-booking-management-system/assets/78598270/fe2fe68d-7332-4440-b13e-bbd56c9f5034)
+![image](https://github.com/Aminah09/movie-ticket-booking-management-system/assets/78598270/25ff1127-0a15-49ef-8c09-499411c5110e)
+
 <br><br>
 ### 3. Movie Details GUI <br><br>
 
-![Alt text](https://github.com/Aminah09/temp/blob/master/3.png)
-![Alt text](https://github.com/Aminah09/temp/blob/master/3.1.png)
+![image](https://github.com/Aminah09/movie-ticket-booking-management-system/assets/78598270/5dc662a7-7f31-45c7-8a86-9c87cf74c26f)
+![image](https://github.com/Aminah09/movie-ticket-booking-management-system/assets/78598270/08b1e8e6-04e3-47af-814e-b2bd11dfdac7)
+
 <br><br>
 ### 4. Book Movie GUI <br><br>
+![image](https://github.com/Aminah09/movie-ticket-booking-management-system/assets/78598270/1c4b40f9-c0de-41f2-9af1-2ca848c11019)
 
-![Alt text](https://github.com/Aminah09/temp/blob/master/4.png)
 <br><br>
 ### 5. Confirmation GUI <br><br>
+![image](https://github.com/Aminah09/movie-ticket-booking-management-system/assets/78598270/eee3cb03-d343-4ae3-b023-1fc8b4ce3695)
 
-![Alt text](https://github.com/Aminah09/temp/blob/master/5.png)
 <br><br>
 ### 6. Cancellation GUI <br><br>
+![image](https://github.com/Aminah09/movie-ticket-booking-management-system/assets/78598270/2573bde0-8f65-4064-8221-32949a00b1ec)
 
-![Alt text](https://github.com/Aminah09/temp/blob/master/6.png)
 <br><br>
 ### 7. Payment Type GUI <br><br>
+![image](https://github.com/Aminah09/movie-ticket-booking-management-system/assets/78598270/d15d9f23-8708-4944-a54d-66d1b7a04717)
+![image](https://github.com/Aminah09/movie-ticket-booking-management-system/assets/78598270/de4d40d6-0d5d-4b84-8c2d-e707a2e7129e)
 
-![Alt text](https://github.com/Aminah09/temp/blob/master/7.png)
-![Alt text](https://github.com/Aminah09/temp/blob/master/8.png)
 <br><br>
 ### 8. Payment Successful GUI <br><br>
+![image](https://github.com/Aminah09/movie-ticket-booking-management-system/assets/78598270/b84ad32f-86ef-48d1-b097-f4f0cf77c65a)
 
-![Alt text](https://github.com/Aminah09/temp/blob/master/8.1.png)
 
 ## License
 
