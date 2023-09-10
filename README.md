@@ -1,4 +1,4 @@
-# Movie Ticket Booking Management Syst
+# Movie Ticket Booking Management Syste
 
 The Movie Ticket Booking Management System is a Java-based application built using NetBeans IDE. It allows users to book movie tickets online and provides functionalities for browsing movies, selecting showtimes, choosing seats, making payments, and generating receipts. The project utilizes JavaFX for creating the user interface and MongoDB as the database.
 
